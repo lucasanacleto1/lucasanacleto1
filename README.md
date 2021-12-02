@@ -1,16 +1,18 @@
-### Hi there 👋
+<div>
+  <a href='github.com/lucasanacleto1'/>
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=lucasanacleto1&show_icons=true&theme=dark'/>
+<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanacleto1&layout=compact' />
+</div>
 
-<!--
-**lucasanacleto1/lucasanacleto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href='https://www.linkedin.com/in/lucas-anacleto-5187531b9/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href='https://www.instagram.com/lucasanacleto1097/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+![Snake animation](https://github.com/lucasanacleto1/lucasanacleto1/blob/output/github-contribution-grid-snake.svg)
