@@ -15,4 +15,5 @@
   <a href='https://www.linkedin.com/in/lucas-anacleto-5187531b9/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href='https://www.instagram.com/lucasanacleto1097/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-![Snake animation](https://github.com/lucasanacleto1/lucasanacleto1/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/lucasanacleto1/lucasanacleto1/blob/output/github-contribution-grid-snake.svg"/>
